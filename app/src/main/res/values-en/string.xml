@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TodoApp</string>
+    <string name="task_name_hint">Set task name</string>
+    <string name="task_name_label">Name</string>
+    <string name="task_details_label">Details</string>
+    <string name="task_done_label">Done</string>
+    <string name="task_add_new">New task</string>
+    <string name="show_subtitle">Show subtitle</string>
+    <string name="hide_subtitle">Hide subtitke</string>
+    <string name="subtitle_format">%1$d tasks</string>
+    <string name="checkbox_text">CheckBox</string>
+
+    <string-array name="category_spinner_items">
+        <item>Home</item>
+        <item>Studia</item>
+    </string-array>
+</resources>

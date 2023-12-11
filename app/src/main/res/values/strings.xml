@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+    <string name="task_name_hint">Wprowadź nazwę zadania</string>
+    <string name="task_name_label">Nazwa</string>
+    <string name="task_details_label">Szczegóły</string>
+    <string name="task_done_label">Wykonane</string>
+    <string name="task_add_new">Nowe Zadanie</string>
+    <string name="show_subtitle">Pokaż podtytuł</string>
+    <string name="hide_subtitle">Ukryj podtytuł</string>
+    <string name="subtitle_format">%1$d zadań</string>
+    <string name="checkbox_text">CheckBox</string>
+    <string-array name="category_spinner_items">
+        <item>Home</item>
+        <item>Studies</item>
+    </string-array>
+</resources>

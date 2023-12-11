@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "com.example.zadanie.app-merged_res-32:/drawable-anydpi_ic_house.xml.flat",
+        "source": "com.example.zadanie.app-main-34:/drawable-anydpi/ic_house.xml"
+    },
+    {
+        "merged": "com.example.zadanie.app-merged_res-32:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.zadanie.app-main-34:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.zadanie.app-merged_res-32:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "com.example.zadanie.app-main-34:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.zadanie.app-merged_res-32:/drawable-mdpi_ic_house.png.flat",
+        "source": "com.example.zadanie.app-main-34:/drawable-mdpi/ic_house.png"
+    },
+    {
+        "merged": "com.example.zadanie.app-merged_res-32:/drawable-hdpi_studies.png.flat",
+        "source": "com.example.zadanie.app-main-34:/drawable-hdpi/studies.png"
+    },
+    {
+        "merged": "com.example.zadanie.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.zadanie.app-main-34:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.zadanie.app-merged_res-32:/drawable-xhdpi_studies.png.flat",
+        "source": "com.example.zadanie.app-main-34:/drawable-xhdpi/studies.png"
+    },
+    {
+        "merged": "com.example.zadanie.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.zadanie.app-main-34:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.zadanie.app-merged_res-32:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.zadanie.app-main-34:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.zadanie.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.zadanie.app-main-34:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.zadanie.app-merged_res-32:/drawable-xxhdpi_studies.png.flat",
+        "source": "com.example.zadanie.app-main-34:/drawable-xxhdpi/studies.png"
+    },
+    {
+        "merged": "com.example.zadanie.app-merged_res-32:/layout_fragment_task.xml.flat",
+        "source": "com.example.zadanie.app-main-34:/layout/fragment_task.xml"
+    },
+    {
+        "merged": "com.example.zadanie.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.zadanie.app-main-34:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.zadanie.app-merged_res-32:/layout_activity_main.xml.flat",
+        "source": "com.example.zadanie.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.zadanie.app-merged_res-32:/xml_backup_rules.xml.flat",
+        "source": "com.example.zadanie.app-main-34:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.zadanie.app-merged_res-32:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.zadanie.app-main-34:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.zadanie.app-merged_res-32:/drawable-anydpi_studies.xml.flat",
+        "source": "com.example.zadanie.app-main-34:/drawable-anydpi/studies.xml"
+    },
+    {
+        "merged": "com.example.zadanie.app-merged_res-32:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.zadanie.app-main-34:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.zadanie.app-merged_res-32:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.zadanie.app-main-34:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.zadanie.app-merged_res-32:/menu_fragment_task_menu.xml.flat",
+        "source": "com.example.zadanie.app-main-34:/menu/fragment_task_menu.xml"
+    },
+    {
+        "merged": "com.example.zadanie.app-merged_res-32:/drawable-mdpi_studies.png.flat",
+        "source": "com.example.zadanie.app-main-34:/drawable-mdpi/studies.png"
+    },
+    {
+        "merged": "com.example.zadanie.app-merged_res-32:/drawable-xhdpi_ic_house.png.flat",
+        "source": "com.example.zadanie.app-main-34:/drawable-xhdpi/ic_house.png"
+    },
+    {
+        "merged": "com.example.zadanie.app-merged_res-32:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.zadanie.app-main-34:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.zadanie.app-merged_res-32:/layout_fragment_task_list.xml.flat",
+        "source": "com.example.zadanie.app-main-34:/layout/fragment_task_list.xml"
+    },
+    {
+        "merged": "com.example.zadanie.app-merged_res-32:/layout_list_item_task.xml.flat",
+        "source": "com.example.zadanie.app-main-34:/layout/list_item_task.xml"
+    },
+    {
+        "merged": "com.example.zadanie.app-merged_res-32:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.zadanie.app-main-34:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.zadanie.app-merged_res-32:/drawable-hdpi_ic_house.png.flat",
+        "source": "com.example.zadanie.app-main-34:/drawable-hdpi/ic_house.png"
+    },
+    {
+        "merged": "com.example.zadanie.app-merged_res-32:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.zadanie.app-main-34:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.zadanie.app-merged_res-32:/drawable-xxhdpi_ic_house.png.flat",
+        "source": "com.example.zadanie.app-main-34:/drawable-xxhdpi/ic_house.png"
+    },
+    {
+        "merged": "com.example.zadanie.app-merged_res-32:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.zadanie.app-main-34:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.zadanie.app-merged_res-32:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.zadanie.app-main-34:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.zadanie.app-merged_res-32:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.zadanie.app-main-34:/mipmap-hdpi/ic_launcher.webp"
+    }
+]

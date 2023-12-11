@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.zadanie.app-mergeDebugResources-30:/values-en/values-en.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\kubap\\OneDrive\\Pulpit\\Studia\\Systemy mobilne\\Zadanie5\\app\\src\\main\\res\\values-en\\string.xml",
+                    "from": {
+                        "startLines": "13,2,11,9,8,10,7,5,6,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "579,55,527,416,360,472,310,206,261,100,157",
+                        "endLines": "16,2,11,9,8,10,7,5,6,3,4",
+                        "endColumns": "19,44,50,55,55,54,49,54,48,56,48",
+                        "endOffsets": "697,95,573,467,411,522,355,256,305,152,201"
+                    },
+                    "to": {
+                        "startLines": "2,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,178,223,274,330,386,441,491,546,595,652",
+                        "endLines": "5,6,7,8,9,10,11,12,13,14,15",
+                        "endColumns": "19,44,50,55,55,54,49,54,48,56,48",
+                        "endOffsets": "173,218,269,325,381,436,486,541,590,647,696"
+                    }
+                }
+            ]
+        }
+    ]
+}
